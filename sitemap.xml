@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gremtek13.github.io/sel-sucre-et-soleil/</loc>
+    <loc>https://selsucreetsoleil.fr/</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://gremtek13.github.io/sel-sucre-et-soleil/blog.html</loc>
+    <loc>https://selsucreetsoleil.fr/blog.html</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://gremtek13.github.io/sel-sucre-et-soleil/a-propos.html</loc>
+    <loc>https://selsucreetsoleil.fr/a-propos.html</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://gremtek13.github.io/sel-sucre-et-soleil/contact.html</loc>
+    <loc>https://selsucreetsoleil.fr/contact.html</loc>
     <lastmod>2026-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

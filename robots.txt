@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gremtek13.github.io/sel-sucre-et-soleil/sitemap.xml
+Sitemap: https://selsucreetsoleil.fr/sitemap.xml
