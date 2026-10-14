@@ -3,3 +3,5 @@ node_modules/
 .claude/
 # photos sources déposées à la racine (les versions optimisées sont dans images/)
 laurie photo*
+# documents personnels déposés par erreur dans le dossier du site
+*.pdf
