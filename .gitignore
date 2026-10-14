@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+.claude/
+# photos sources déposées à la racine (les versions optimisées sont dans images/)
+laurie photo*
